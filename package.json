@@ -1,0 +1,18 @@
+{
+  "name": "database-project",
+  "version": "1.0.0",
+  "description": "developing nodejs project storing information into database ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "mogodb"
+  ],
+  "author": "Revanth",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.2"
+  }
+}
